@@ -4,6 +4,30 @@ All notable changes to the "agent-manager-for-q-cli" extension will be documente
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.3.0] - 2025-09-16 
+
+### Added
+- **🚀 PromtZ Integration**: Enhanced prompt management and advanced agent capabilities
+- **📋 Context Resources View**: Visual display of agent resource files organized by patterns
+- **🔍 File Pattern Grouping**: Automatic organization of resources by their file patterns
+- **📄 Quick File Access**: Click any resource file to open directly in the editor
+- **🛠️ Enhanced File Operations**: Right-click context menu for resource files (copy path, reveal in explorer)
+- **🔎 Resource Search & Filter**: Built-in search functionality to filter files by name or path
+- **⚡ Improved Performance**: Optimized resource loading and pattern matching
+- **🎨 Enhanced UI**: Better visual organization and user experience for resource management
+
+### Enhanced
+- **Agent Creation Form**: Improved resource configuration with better validation
+- **Tree View**: Enhanced display of agent resources and their associated files
+- **Context Management**: More efficient handling of agent context and resources
+- **Error Handling**: Better error messages and recovery for resource-related operations
+
+### Technical Improvements
+- Advanced pattern matching algorithms for resource organization
+- Optimized file system operations for better performance
+- Enhanced caching mechanisms for resource data
+- Improved TypeScript type definitions for PromtZ integration
+
 ## [Unreleased] - v0.0.2
 
 ### Planned Features
@@ -18,7 +42,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Enhanced tree view with location-based categorization
 - Improved agent creation form with location selection
 
-## [0.0.1] - 2025-01-15 (Current Release)
+## [0.0.1] - 2025-01-15
 
 ### Added
 - **Visual Agent Creation**: Complete form-based agent creation with real-time validation

@@ -1,6 +1,6 @@
 # Agent Manager for Q CLI
 
-A VS Code Extension that simplifies Amazon Q Developer CLI agent management with an intuitive interface for creating, configuring, and executing agents without manual JSON editing.
+A VS Code Extension that simplifies Amazon Q Developer CLI agent management with an intuitive interface for creating, configuring, and executing agents without manual JSON editing. Now includes PromtZ integration for enhanced prompt management and advanced agent capabilities.
 
 ## ✨ Features
 
@@ -9,6 +9,7 @@ A VS Code Extension that simplifies Amazon Q Developer CLI agent management with
 - **▶️ One-Click Execution**: Run agents directly from VS Code with integrated terminal
 - **📁 Context Resources View**: Visual display of agent resource files organized by patterns
 - **🔗 Context Hook Configuration**: Automated context injection with predefined templates
+- **🚀 PromtZ Integration**: Enhanced prompt management and advanced agent capabilities
 - **🧪 Experimental Tools Support**: Access to Q CLI's experimental features (`knowledge`, `thinking`, `todo_list`)
 - **⚠️ Smart Conflict Detection**: Visual warnings when agents with same names exist in different locations
 - **💼 Professional UI**: VS Code-native interface with comprehensive form validation
